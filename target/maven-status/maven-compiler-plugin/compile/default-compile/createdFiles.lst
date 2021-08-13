@@ -1,0 +1,4 @@
+com\usermgmt\UserProfile.class
+com\medilab\preclicinc\controller\DashboardController.class
+com\medilab\preclicinc\Application.class
+com\medilab\preclicinc\ServletInitializer.class
